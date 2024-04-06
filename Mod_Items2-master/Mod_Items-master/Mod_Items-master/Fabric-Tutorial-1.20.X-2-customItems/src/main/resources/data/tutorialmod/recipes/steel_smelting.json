@@ -2,7 +2,7 @@
   "type": "minecraft:blasting",
   "category": "misc",
   "cookingtime": 1000,
-  "experience": 0.7,
+  "experience": 1.5,
   "ingredient": {
     "item": "tutorialmod:impure_steel"
   },
