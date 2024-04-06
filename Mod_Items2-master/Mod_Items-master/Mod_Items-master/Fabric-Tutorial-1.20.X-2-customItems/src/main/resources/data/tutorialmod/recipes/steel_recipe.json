@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:hard_iron"
+    }
+  },
+  "pattern": [
+    " ##",
+    " ##"
+  ],
+  "result": {
+    "item": "tutorialmod:impure_steel"
+  },
+  "show_notification": true
+}
